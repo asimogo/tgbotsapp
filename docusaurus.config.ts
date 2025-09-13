@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'TG机器人应用宝',
-  tagline: '专注 TG 技术及各种bot应用实践',
+  tagline: '专注 TG 技术及各种bot、mini app',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -95,11 +95,6 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         { type: 'localeDropdown', position: 'right' },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
