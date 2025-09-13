@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'TG和那些机器人',
-  tagline: 'Dinosaurs are cool',
+  title: 'TG机器人应用宝',
+  tagline: '专注 TG 技术及各种bot应用实践',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
